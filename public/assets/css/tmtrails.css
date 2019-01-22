@@ -1,7 +1,18 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
-body h1 {
-    font-size: 1.5em;
-    text-align: center;
+.tmtrails-logo {
+    width: 120px;
+}
+
+/*** Bootstrap Overrides ***/
+.bg-dark {
+    background-color: #666 !important;
+}
+
+/* Center nav items in mobile menu */
+@media (max-width: 992px) {
+    .navbar-nav {
+        text-align: center;
+    }
 }
