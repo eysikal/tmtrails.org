@@ -1,5 +1,5 @@
-<header>
-    <nav class="navbar navbar-expand-sm navbar-light bg-white text-black">
+<header class="mb-3">
+    <nav class="navbar navbar-expand-sm navbar-light">
         <a class="navbar-brand" href="/">
             <img class="tmtrails-logo" src="/assets/images/tmtrails-logo.svg" alt="tmtrails logo">
         </a>
