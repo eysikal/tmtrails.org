@@ -8,7 +8,7 @@
                 <h1>Proposed Trail Map</h1>
                 <div class="embed-responsive embed-responsive-16by9 mt-4">
                     <iframe class="embed-responsive-item"
-                            src="http://docs.google.com/gview?url=https://www.traversemountaintrails.org/assets/files/tmtrails-proposed-map.pdf&embedded=true"
+                            src="https://docs.google.com/gview?url=https://www.traversemountaintrails.org/assets/files/tmtrails-proposed-map.pdf&embedded=true"
                             allowfullscreen></iframe>
                 </div>
                 <p class="mt-4"><a href="/assets/files/tmtrails-map.pdf">Download Proposed Trail Map</a></p>
