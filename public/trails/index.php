@@ -9,8 +9,8 @@
                 <img class="img-fluid" src="/assets/images/tmtrails-proposed-map.jpg" alt="tmtrails proposed map">
                 <p class="mt-4"><a href="/assets/files/tmtrails-proposed-map.pdf">Download Full-Resolution Map</a></p>
             </div>
-            <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         </main>
+        <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/close-page.php'; ?>
     </body>
 </html>

@@ -1,8 +1,8 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-.tmtrails-logo {
-    width: 100px;
+main {
+    min-height: calc(100vh - 365px);
 }
 
 /*** Bootstrap Overrides ***/
@@ -10,9 +10,15 @@ body {
     background-color: #666 !important;
 }
 
+/*** Header ***/
+.tmtrails-logo {
+    height: 80px;
+}
 /* Center nav items in mobile menu */
 @media (max-width: 992px) {
     .navbar-nav {
         text-align: center;
     }
 }
+
+/*** Footer ***/

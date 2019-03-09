@@ -11,8 +11,8 @@
                     </div>
                 </div>
             </div>
-            <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         </main>
+        <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/close-page.php'; ?>
     </body>
 </html>

@@ -7,8 +7,8 @@
             <div class="container text-center my-5 py-5">
                 <p>[ Donate Page Coming Soon ]</p>
             </div>
-            <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         </main>
+        <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/close-page.php'; ?>
     </body>
 </html>
