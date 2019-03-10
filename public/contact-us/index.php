@@ -1,3 +1,12 @@
+<?php
+try {
+    mail('eysikal@gmail.com', 'My Subject', 'This is a test');
+} catch (Exception $e) {
+    echo $e->getMessage();
+}
+exit();
+?>
+
 <!doctype html>
 <html lang="en">
     <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/head.php'; ?>
