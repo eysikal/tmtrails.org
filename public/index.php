@@ -4,7 +4,7 @@
     <body>
         <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/header.php'; ?>
         <main>
-            <div class="container text-center">
+            <section class="container text-center">
                 <h1>Traverse Mountain Trails Association</h1>
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
@@ -29,7 +29,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
             <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/footer.php'; ?>
         </main>
         <?php include $_SERVER["DOCUMENT_ROOT"] . '/partials/close-page.php'; ?>

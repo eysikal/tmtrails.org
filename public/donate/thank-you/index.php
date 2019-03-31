@@ -6,9 +6,9 @@
         <main>
             <section class="container text-center">
                 <div class="row justify-content-center">
-                    <div class="col-md-8">
-                        <h1>About Us</h1>
-                        <p class="mt-5">Traverse Mountain Trails Association exists to promote development of local, sustainable trails for outdoor recreation (e.g., biking, hiking, etc.). Our organization is run and operated entirely by volunteers. We fundraise (grants and private donations) for the development and construction of new trails. We also work with community partners to ensure trails are used appropriately.</p>
+                    <div class="col-md-10">
+                        <h1>Thank You!</h1>
+                        <h3 class="mt-5">Traverse Mountain Trails Association thanks you for you donation!</h2>
                     </div>
                 </div>
             </section>
