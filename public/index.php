@@ -11,13 +11,13 @@
                         <div id="tmtrails-carousel" class="carousel slide mt-4" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="/assets/images/tmtrails-landscape-1.jpg" class="d-block w-100" alt="Traverse Mountain Landscape 1">
+                                    <img src="/assets/images/tmtrails-landscape-4.jpg" class="d-block w-100" alt="Traverse Mountain Landscape 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="/assets/images/tmtrails-landscape-2.jpg" class="d-block w-100" alt="Traverse Mountain Landscape 2">
+                                    <img src="/assets/images/tmtrails-landscape-5.jpg" class="d-block w-100" alt="Traverse Mountain Landscape 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="/assets/images/tmtrails-landscape-3.jpg" class="d-block w-100" alt="Traverse Mountain Landscape 3">
+                                    <img src="/assets/images/tmtrails-landscape-6.jpg" class="d-block w-100" alt="Traverse Mountain Landscape 3">
                                 </div>
                             </div>
                             <a class="carousel-control-prev" href="#tmtrails-carousel" role="button" data-slide="prev">
