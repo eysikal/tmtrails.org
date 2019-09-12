@@ -9,16 +9,16 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/trails">Trails</a>
+                    <a class="nav-link" href="/trails">Our Trails</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/donate">Donate</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/about">About</a>
+                    <a class="nav-link" href="/about">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact-us">Contact</a>
+                    <a class="nav-link" href="/contact-us">Contact Us</a>
                 </li>
             </ul>
         </div>
